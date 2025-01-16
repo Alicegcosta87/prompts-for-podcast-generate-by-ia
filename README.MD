@@ -26,4 +26,6 @@
 - Audio gerado pela elevenLabs
 - Leonardo AI Para gerar capas
 
+## Publicado em output/ElevenLabs_2025-01-16T10_12_34_Nichalia Schwartz_pvc_s35_sb100_se0_b_m2.mp3
+
 ⌨️ com 💜 por [Alice Galindo (https://github.com/Alicegcosta87)
