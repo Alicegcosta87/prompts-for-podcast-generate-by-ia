@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/ElevenLabs_2025-01-16T10_12_34_Nichalia Schwartz_pvc_s35_sb100_se0_b_m2.mp3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
