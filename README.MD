@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/assets/flux_dev_criar_foto_de_um_podcaster_o_podcaster__uma_mulher_jo_3_e55679ed-ce62-4c48-ab8d-51a112fa5f7a.jpeg"
+    src="assets/flux_dev_criar_foto_de_um_podcaster_o_podcaster__uma_mulher_jo_3_e55679ed-ce62-4c48-ab8d-51a112fa5f7a.jpeg"
     width="300"
 />
 </p>
